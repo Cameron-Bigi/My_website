@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Bigi_04/bigi_relax%232.rnc" type="application/relax-ng-compact-syntax"?>
+<Recipe> 
+    Cookies <title>Original NESTLÉ® TOLL HOUSE® Chocolate Chip Cookies</title> 4.3 (2607) Write
+    A Review Level Easy Prep <time clock='minutes'>15 minutes</time> Cook <time clock='minutes'>9 minutes</time> Servings 5 dozen
+    cookies The chocolate chip cookie that started it all! NESTLÉ® TOLL HOUSE® original chocolate
+    chip cookies are a true classic and the go-to cookie for all occasions! 
+    
+    <Important> 
+        Step 1
+            <action>Preheat</action>
+        <tool item='machine'>oven</tool> to <temp>375° F</temp>. Step 2 <action>Combine</action>
+        <ingredient food="dry">flour</ingredient>, <ingredient food="wet">baking soda</ingredient>
+        and <ingredient food="dry">salt</ingredient> in <tool item='handheld'>small bowl</tool>.
+            <action>Beat</action>
+        <ingredient food="wet">butter</ingredient>, <ingredient food="dry">granulated
+            sugar</ingredient>, <ingredient food="dry">brown sugar</ingredient> and <ingredient
+            food="wet">vanilla extract</ingredient> in <tool item='handheld'>large mixer bowl</tool> until creamy.
+        Add <ingredient food="wet">eggs</ingredient>, one at a time, <action>beating</action> well
+        after each addition. Gradually <action>beat</action> in <ingredient food="dry"
+            >flour</ingredient> mixture. <action>Stir</action> in <ingredient food="dry">morsels and
+            nuts</ingredient>. Drop by rounded <measurments amount='small'>tablespoon</measurments> onto ungreased
+            <tool item='handheld'>baking sheets</tool>. Step 3 <action>Bake</action> for <time clock='minutes'>9 to 11
+            minutes</time> or until golden brown. <action>Cool</action> on <tool item='handheld'>baking
+            sheets</tool> for <time clock='minutes'>2 minutes</time>; <action>remove</action> to <tool item='handheld'>wire
+            racks</tool>to <action>cool</action> completely. For High Altitude Baking (5,200 feet):
+        Increase <ingredient food="dry">flour</ingredient> to <measurements amount='medium'>2 1/2
+            cups</measurements>. <action>Add</action>
+        <measurements amount='small'>2 teaspoons</measurements>
+        <ingredient food="wet">water</ingredient> with <ingredient food="dry">flour</ingredient> and
+            <action>reduce</action> both granulated <ingredients food="dry">sugar and brown
+            sugar</ingredients> to <measurements amount='medium'>2/3 cup</measurements> each. <action>Bake</action>
+        drop cookies for <time clock='minutes'>8 to 10 minutes</time>and pan cookie for <time clock='minutes'>17 to 19
+            minutes</time>.</Important> 
+    
+    <Important>
+        Ingredients 
+    
+        <measurements amount='medium'>2 1/4 cups</measurements>
+        <ingredient food="dry">all-purpose flour</ingredient>
+        <measurements amount='small'>1 teaspoon</measurements>
+        <ingredient food="wet">baking soda</ingredient>
+        <measurements amount='small'>1 teaspoon</measurements> salt <measurements amount='medium'>1 cup</measurements> (2 sticks)
+            <ingredient food="wet">butter</ingredient>, softened <measurements amount='medium'>3/4
+            cup</measurements> granulated <ingredient food="dry">sugar</ingredient>
+        <measurements amount='medium'>3/4 cup packed</measurements>
+        <ingredient food="dry">brown sugar</ingredient>
+        <measurements amount='small'>1 teaspoon</measurements>
+        <ingredient food="wet">vanilla extract</ingredient> 2 large <ingredient food="wet"
+            >eggs</ingredient>
+        <measurements amount='medium'>2 cups</measurements> (<measurements amount='small'>12-ounce</measurements> package) NESTLÉ®
+        TOLL HOUSE® Semi-Sweet <ingredient food="dry">Chocolate Morsels</ingredient>
+        <measurements amount='medium'>1 cup</measurements>
+        <action>chopped</action>
+        <ingredient food="dry">nuts</ingredient> (Optional. If omitting, add <measurements amount='small'>1 to 2
+            Tbsp</measurements>. of all-purpose <ingredient>flour</ingredient>.</Important>
+</Recipe>

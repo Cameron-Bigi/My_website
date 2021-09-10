@@ -1,0 +1,16 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
+start = Recipe
+Recipe = element Recipe {text+, title, time, Important+}
+title = element title {text}
+time = element time {clock}
+Important = element Important { mixed{action | tool | temp | ingredient | measurments | time}*}
+action = element action {text}
+tool = element tool {handheld, text}
+temp = element temp {text}
+ingredient = element ingredient {text, food}
+measurments = element measurments {amount, text}
+handheld = attribute handheld {text}
+food = attribute food {text}
+amount = attribute amount {text}
+clock = attribute clock {text}
